@@ -1,0 +1,27 @@
+{
+    "moves": [
+        {
+            "type": "attack",
+            "target_id": 3
+        },
+        {
+            "type": "move",
+            "target_x": 72,
+            "target_y": 62
+        },
+        {
+            "type": "move",
+            "target_x": 82,
+            "target_y": 62
+        },
+        {
+            "type": "attack",
+            "target_id": 1
+        },
+        {
+            "type": "move",
+            "target_x": 92,
+            "target_y": 72
+        }
+    ]
+}

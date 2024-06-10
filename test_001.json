@@ -1,0 +1,60 @@
+{
+  "moves": [ 
+    {
+      "type": "move",
+      "target_x": 15,
+      "target_y": 18
+    },
+    {
+      "type": "attack",
+      "target_id": 5
+    },
+    {
+      "type": "move",
+      "target_x": 9,
+      "target_y": 21
+    },
+    {
+      "type": "move",
+      "target_x": 6,
+      "target_y": 24
+    },
+    {
+      "type": "attack",
+      "target_id": 0
+    },
+    {
+      "type": "attack",
+      "target_id": 3
+    },
+    {
+      "type": "move",
+      "target_x": 13,
+      "target_y": 23
+    },
+    {
+      "type": "move",
+      "target_x": 21,
+      "target_y": 23
+    },
+    {
+      "type": "move",
+      "target_x": 29,
+      "target_y": 23
+    },
+    {
+      "type": "move",
+      "target_x": 37,
+      "target_y": 23
+    },
+    {
+      "type": "move",
+      "target_x": 43,
+      "target_y": 23
+    },
+    {
+      "type": "attack",
+      "target_id": 2
+    }
+  ]
+}
